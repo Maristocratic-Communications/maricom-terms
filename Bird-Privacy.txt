@@ -1,8 +1,22 @@
 Bird/Maricom Privacy Policy:
 Bird will not collect any personal data.
 
-Other data collection includes:
-User IDs, Channel IDs, and Server IDs. These are used in various places in the bot in order to store data relating to your user profile and server configs. Discord IDs (aka snowflakes) are not personally identifiable, other than User IDs linking to your discord account. User IDs can only be used to get Profile Data, such as PFP and Banner. These will most likely NEVER be checked. The other thing snowfakes can do is get the timestamp of account/server/channel creation.
-Bird scans all messages when sent (on message function), most of the time, the bot does nothing to them. This is simply how discord works. If they contain "bird", bird will add a reaction, and may add a bird to your inventory, associated with your discord ID. Nothing else comes of this.
+Data collection includes:
+User IDs, Channel IDs, and Server IDs. These are used in various places in the bot in order to store data relating to your user profile and server configs. other than User IDs linking to your discord account. User IDs can only be used to get Profile Data, such as PFP and Banner. The other thing snowfakes can do is get the timestamp of account/server/channel creation.
+
+Bird scans all messages when sent (on message function), most of the time, the bot does nothing to them and discards them after use. This is simply how discord works. If they contain "bird", bird will add a reaction, and may add a bird to your inventory, associated with your discord ID. Nothing else comes of this.
 
 I AM NOT LIABLE FOR ANY POSSIBLE DAMAGES, USE THE BOT AT YOUR OWN RISK.
+
+
+
+
+Maricom Terms and Conditions (Updated July 19, 2025):
+
+Do not use our services in order for data scraping, or exploiting vulnerabilities you find inside of the bots. 
+
+Changes
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
+We recommend to check back incase a revision is material.
+By continuing to access or use our service after any revisions become effective, you agree to be bound by the revised terms.
+If you do not agree to the new terms, you are no longer authorized to use our bots.
