@@ -1,0 +1,21 @@
+NeoCat Police/Maricom Privacy Policy:
+NeoCat Police will not intentionally collect any personal data. Personal Data may be sent into a discord server with NeoCat Police and logged upon deletion. If you accidentally send personal information and it is logged, I recommend to contact staff members and ask them to delete it.
+
+Other Data collection includes:
+User IDs, Channel IDs, and Server IDs. These are used in various places in the bot in order to store data relating to server configs and the AI Memories feature. Other than User IDs linking to your discord account. User IDs can only be used to get Profile Data, such as Profile Picture, Date of Join, and Banner. The other thing snowfakes can do is get the timestamp of account/server/channel creation.
+NeoCat Police will also store inputted text in it's tags feature, these are created by issuing a command and store user inputted data. They can be deleted by the user who creates them or other moderators in the server.
+
+NeoCat Police scans all messages when sent (on message function), most of the time, the bot does nothing to them and discards them after use. This is simply how Discord works. Various functions can be triggered depending on where you send a message and the contents of said message. It will also be stored in a runtime-only Cache that will be cleared upon restart or after a certain amount of time.
+Any additional fronts for Interacting with components of the bot not explicitly or implicitly listed here will have seperate terms, if such feature exists.
+
+I AM NOT LIABLE FOR ANY POSSIBLE DAMAGES, USE THE BOT AT YOUR OWN RISK.
+
+Maricom Terms and Conditions (Updated July 19, 2025):
+
+Do not use our services in order for data scraping, or exploiting vulnerabilities you find inside of the bots. 
+
+Changes
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
+We recommend to check back incase a revision is material.
+By continuing to access or use our service after any revisions become effective, you agree to be bound by the revised terms.
+If you do not agree to the new terms, you are no longer authorized to use our bots.
